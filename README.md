@@ -1,7 +1,20 @@
-# Project: Personal Finance Tracker
-( https://voluble-malabi-add7a5.netlify.app/ ) ->  Live URL
+# Project: Personal Finance Tracker Dashboard
+A responsive web application to track income and expenses with real-time analytics and data visualization.
 
-- Built a responsive web application using HTML, CSS, and JavaScript for tracking income and expenses
-- Implemented dynamic DOM manipulation and local storage for persistent data handling
-- Designed an interactive UI with real-time balance updates and transaction management
-- Deployed the application using Netlify for live access
+# Live URL
+-> ( https://silver-klepon-883004.netlify.app/ ) 
+
+# Tech stack
+- HTML
+- CSS
+- JavaScript
+
+# Features
+- Add income and expense transactions
+- Delete transactions
+- Search transactions by description
+- Categorize transactions (Food, Travel, Shopping, etc.)
+- Doughnut chart for income vs expense
+- Monthly analysis using bar chart
+- Data stored using localStorage (persistent data)
+- Responsive UI design
