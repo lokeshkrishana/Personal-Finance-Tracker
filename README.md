@@ -1,5 +1,5 @@
 # Project: Personal Finance Tracker
-( https://illustrious-gelato-004492.netlify.app/ ) ->  Live URL
+( https://voluble-malabi-add7a5.netlify.app/ ) ->  Live URL
 
 - Built a responsive web application using HTML, CSS, and JavaScript for tracking income and expenses
 - Implemented dynamic DOM manipulation and local storage for persistent data handling
