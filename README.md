@@ -1,4 +1,7 @@
 # Project: Personal Finance Tracker
 ( https://illustrious-gelato-004492.netlify.app/ ) ->  Live URL
 
-tracking money by simple calculation.
+- Built a responsive web application using HTML, CSS, and JavaScript for tracking income and expenses
+- Implemented dynamic DOM manipulation and local storage for persistent data handling
+- Designed an interactive UI with real-time balance updates and transaction management
+- Deployed the application using Netlify for live access
